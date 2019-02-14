@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\Pastane_Otomasyon\Pastane_Otomasyon\bin\Debug\Pastane_Otomasyon.exe.config
+C:\Users\Ali\source\repos\Pastane_Otomasyon\Pastane_Otomasyon\bin\Debug\Pastane_Otomasyon.exe
+C:\Users\Ali\source\repos\Pastane_Otomasyon\Pastane_Otomasyon\bin\Debug\Pastane_Otomasyon.pdb
+C:\Users\Ali\source\repos\Pastane_Otomasyon\Pastane_Otomasyon\obj\Debug\Pastane_Otomasyon.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\Pastane_Otomasyon\Pastane_Otomasyon\obj\Debug\Pastane_Otomasyon.Form1.resources
+C:\Users\Ali\source\repos\Pastane_Otomasyon\Pastane_Otomasyon\obj\Debug\Pastane_Otomasyon.Properties.Resources.resources
+C:\Users\Ali\source\repos\Pastane_Otomasyon\Pastane_Otomasyon\obj\Debug\Pastane_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Pastane_Otomasyon\Pastane_Otomasyon\obj\Debug\Pastane_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Pastane_Otomasyon\Pastane_Otomasyon\obj\Debug\Pastane_Otomasyon.exe
+C:\Users\Ali\source\repos\Pastane_Otomasyon\Pastane_Otomasyon\obj\Debug\Pastane_Otomasyon.pdb
